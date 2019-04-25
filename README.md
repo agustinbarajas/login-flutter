@@ -1,3 +1,3 @@
 # Demo login page
 
-![](images/demo_login_page.png)
+<img src="images/demo_login_page.png" height="350em"/>
